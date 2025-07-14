@@ -68,7 +68,10 @@ connect = 'YOUR_CONNECTION_STRING_HERE/Your ROOT Directory Here'  # Replace with
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
-
+### RUN THE FILES IN SEQUENCE 
+ 1) RUN PHASE 1.ipynb 
+ 2) RUN PHASE 2.ipynb 
+ 3) RUN PHASE 3.ipynb 
 ## License
 This project is licensed under the MIT License. See the LICENSE file for details.
 # Parkinsons-Telemonitoring
