@@ -68,11 +68,10 @@ connect = 'YOUR_CONNECTION_STRING_HERE/Your ROOT Directory Here'  # Replace with
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any improvements or suggestions.
-### RUN THE FILES IN SEQUENCE 
+### RUN THE FILES IN SEQUENCE FROM NOTEBOOKS 
  1) RUN PHASE 1.ipynb 
  2) RUN PHASE 2.ipynb 
  3) RUN PHASE 3.ipynb 
-## License
-This project is licensed under the MIT License. See the LICENSE file for details.
+
 # Parkinsons-Telemonitoring
 The Parkinsons Telemonitoring project aims to develop a system for monitoring Parkinson's disease patients using machine learning classification algorithms. The project includes data fetching, preprocessing, and various classification techniques to analyze patient data.
