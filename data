@@ -1,0 +1,10 @@
+parkinson-telemonitoring
+├── data
+├── notebooks
+│   └── Final Project Phase 3.ipynb
+├── src
+│   └── utils
+│       └── __init__.py
+├── requirements.txt
+├── .gitignore
+└── README.md
