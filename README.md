@@ -8,7 +8,7 @@ To set up the project, follow these steps:
 
 1. Clone the repository:
    ```
-   git clone https://github.com/Dhruv0571/parkinson-telemonitoring.git
+   git clone https://github.com/Dhruv0571/Parkinsons-Telemonitoring.git
    ```
 2. Navigate to the project directory:
    ```
